@@ -11,5 +11,5 @@ This program, which can be run in the Command Center, will reimburse you for the
   500 SC - 1x Rail 
   220 SC - 1x Box 9x19 Tracer Ammunition
 
-Total Reimbursement: 7,870 SC
+Total Reimbursement: 7,770 SC
 ```
