@@ -6,7 +6,7 @@ This program, which can be run in the Command Center, will reimburse you for the
 4,000 SC - 1x Glock 18C
   250 SC - 1x Glock 18C Magazine
 1,200 SC - 1x Suppressor
-  700 SC - 1x Tactical Flashlight
+  600 SC - 1x Reflex Sight
 1,000 SC - 1x Laser Sight
   500 SC - 1x Rail 
   220 SC - 1x Box 9x19 Tracer Ammunition
