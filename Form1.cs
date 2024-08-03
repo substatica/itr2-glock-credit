@@ -18,7 +18,7 @@ namespace itr2_glock_credit
         static byte[] money_string_bytes = new byte[] { 0x4D, 0x6F, 0x6E, 0x65, 0x79 };
         static int money_value_offset = 26; // 0x1A
 
-        static int reimbursement_amount = 7870;
+        static int reimbursement_amount = 7770;
 
         public Form1()
         {
