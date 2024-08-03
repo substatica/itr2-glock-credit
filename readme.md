@@ -10,6 +10,6 @@ This program, which can be run in the Command Center, will reimburse you for the
 1,000 SC - 1x Laser Sight
   500 SC - 1x Rail 
   220 SC - 1x Box 9x19 Tracer Ammunition
-```
-Total Reimbursement: 7,879 SC
 
+Total Reimbursement: 7,879 SC
+```
